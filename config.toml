@@ -1,5 +1,0 @@
-baseURL = 'https://annisatahira.github.io/contoh/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-fresh'
-
